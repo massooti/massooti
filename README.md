@@ -6,6 +6,13 @@
 - 💻 Currently working on developing moodle
 - 🩺 Struggling with movie, and psycology books
 
+### About Masoud
+
+Experienced Back End Developer with a demonstrated history of working in the information technology and services industry. I specialize in PHP frameworks , Vue and have professional experienced in WordPress. & i also skilled in Search Engine Optimization (SEO).
+To be able to work for an encouraging and stable company that will assist me in developing , improving and obtaining the necessary skills in order to become the better developer.
+
+For any collaboration or press inqueris, please contact me via contact info
+
 ## my handwriting
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massooti&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/massooti)
 
