@@ -24,5 +24,5 @@
 
 
 ## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="32">](https://linkedin.com/in/masoud-zaeem/)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](massoudzaeem@gmail.com)
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="32">](massoudzaeem@gmail.com)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/masoud-zaeem/)
