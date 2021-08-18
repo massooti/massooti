@@ -23,7 +23,6 @@ For any collaboration or press inqueris, please contact me via contact info
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![Wordpress](https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg)
