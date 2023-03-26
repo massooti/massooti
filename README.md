@@ -3,13 +3,12 @@
 
 ## How's life
 - 📱 I make and develop web application run Linux
-- 💻 Currently working on developing moodle
+- 💻 Currently working on developing ML web applications
 - 🩺 Struggling with movie, and psycology books
 
 ### About Masoud
 
-Experienced Back End Developer with a demonstrated history of working in the information technology and services industry. I specialize in PHP frameworks , Vue and have professional experienced in WordPress. & i also skilled in Search Engine Optimization (SEO).
-To be able to work for an encouraging and stable company that will assist me in developing , improving and obtaining the necessary skills in order to become the better developer.
+As an experienced back-end developer, I've honed my skills in Python and Php frameworks to deliver high-quality products and services to clients in the information technology and services industry. But I don't stop there - I'm always looking for ways to expand my knowledge and expertise. That's why I'm passionate about exploring new technologies like Golang, as well as diving into exciting fields like machine learning. 
 
 For any collaboration or press inqueris, please contact me via contact info
 
