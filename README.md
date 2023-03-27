@@ -32,5 +32,6 @@ For any collaboration or press inqueris, please contact me via contact info
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/masoudzaeem/)
 
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=massooti alt=massooti /> <b>Since february 2021</b></p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=massooti alt=massooti /> </p>
 
+<p align=center>Since february 2021</p>
