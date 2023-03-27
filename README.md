@@ -18,7 +18,6 @@ For any collaboration or press inqueris, please contact me via contact info
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-<img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
