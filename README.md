@@ -18,10 +18,12 @@ For any collaboration or press inqueris, please contact me via contact info
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+<!-- ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) -->
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Golang](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![Tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)
 ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg)
 ![Wordpress](https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg)
 <img src="https://tracker.moodle.org/secure/attachment/68503/Moodle_Circle_M_RGB.png" width="70">
