@@ -1,19 +1,7 @@
 # Hi there 👋 this is Masoud
-[![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=massooti&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/massooti)
 
-## How's life
-- 📱 I make and develop web application run Linux
-- 💻 Currently working on developing ML web applications
-- 🩺 Struggling with movie, and psycology books
-
-### About Masoud
-
-As an experienced back-end developer, I've honed my skills in Python and Php frameworks to deliver high-quality products and services to clients in the information technology and services industry. But I don't stop there - I'm always looking for ways to expand my knowledge and expertise. That's why I'm passionate about exploring new technologies like Golang, as well as diving into exciting fields like machine learning. 
-
-For any collaboration or press inqueris, please contact me via contact info
-
-## my handwriting
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massooti&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/massooti)
+### About Me
+🚀 I'm a Python enthusiast, and I love diving into the worlds of Machine Learning, also im actively contributing to open-source projects that drive innovation in financial technology and AI systems.
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
